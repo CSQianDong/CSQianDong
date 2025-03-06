@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="GIF" src="https://media4.giphy.com/media/L0BKzeibXgQSm8tJAi/giphy.gif?cid=ecf05e47sn6790rifn5zx1c2btrk2i7dx3n75qiouojokl9z&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQycm9xcm43bzdsdHByc3p2ODI2NDg4bWd1YTdta3UxY2U2NHg4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 
 
 <a href="https://github.com/Deriq-Qian-Dong">
