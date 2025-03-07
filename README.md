@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Deriq-Qian-Dong">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&count_private=true&show_icons=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CSQianDong&count_private=true&show_icons=true" />
 </a> 
 
 
