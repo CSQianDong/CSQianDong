@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQycm9xcm43bzdsdHByc3p2ODI2NDg4bWd1YTdta3UxY2U2NHg4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
 
 
-<a href="https://github.com/Deriq-Qian-Dong">
+<a href="https://github.com/CSQianDong">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CSQianDong&count_private=true&show_icons=true" />
 </a> 
 
